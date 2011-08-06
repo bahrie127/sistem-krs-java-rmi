@@ -1,0 +1,21 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 14
+/svn/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/14/trunk/krs-mhs
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/14/trunk/krs-mhs/manifest.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/14/trunk/krs-mhs/build.xml
+END

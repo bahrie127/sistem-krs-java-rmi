@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/krs-server/src/stta/bahrie/implementserviceserver
+END
+ImplMahasiswa.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12/trunk/krs-server/src/stta/bahrie/implementserviceserver/ImplMahasiswa.java
+END
+ImplDetailKrs.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/12/trunk/krs-server/src/stta/bahrie/implementserviceserver/ImplDetailKrs.java
+END
+ImplMk.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12/trunk/krs-server/src/stta/bahrie/implementserviceserver/ImplMk.java
+END
+ImplDosen.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/12/trunk/krs-server/src/stta/bahrie/implementserviceserver/ImplDosen.java
+END
+ImplWaktuKrs.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/12/trunk/krs-server/src/stta/bahrie/implementserviceserver/ImplWaktuKrs.java
+END
